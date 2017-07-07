@@ -1,0 +1,10 @@
+{
+  "generators": {
+    "options": {
+      "engine": "ejs"
+    },
+    "modules": {
+      "new": "sails-generate-new-webpack-vue"
+    }
+  }
+}
